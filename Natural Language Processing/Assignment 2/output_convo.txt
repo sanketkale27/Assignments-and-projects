@@ -1,0 +1,208 @@
+HUMAN ++++ hi
+BOT ++++ hey !
+HUMAN ++++ knkfnds
+BOT ++++ Please repharse
+HUMAN ++++ hello
+BOT ++++ hey !
+HUMAN ++++ how are you
+BOT ++++ oh, oh,i'm fine !
+HUMAN ++++ hi
+BOT ++++ hey !
+HUMAN ++++ hello
+BOT ++++ hey !
+HUMAN ++++ how are you
+BOT ++++ oh, oh,i'm fine !
+HUMAN ++++ yo
+BOT ++++ Please repharse
+HUMAN ++++ yo uoi
+BOT ++++ Please repharse
+HUMAN ++++ wass up
+BOT ++++ oh, oh,i'm fine !
+HUMAN ++++ wass up
+BOT ++++ I am fine
+BOT ++++ I am fine
+HUMAN ++++ bye
+BOT ++++ see you later
+HUMAN ++++ bye
+BOT ++++ see you later
+HUMAN ++++ bye
+BOT ++++ bye! come back again
+=============================================
+HUMAN ++++ hello
+BOT ++++ hey !
+HUMAN ++++ wass up
+BOT ++++ I am fine
+BOT ++++ I am fine
+=============================================
+HUMAN ++++ hi
+BOT ++++ hey !
+=============================================
+HUMAN ++++ hello
+BOT ++++ hey !
+=============================================
+HUMAN ++++ hey
+BOT ++++ hey !
+=============================================
+HUMAN ++++ hi
+BOT ++++ hi
+BOT ++++ hi
+HUMAN ++++ how are you
+BOT ++++ I am fine
+BOT ++++ I am fine
+HUMAN ++++ where are you
+BOT ++++ I am in Ireland
+HUMAN ++++ ok
+BOT ++++ Please repharse
+HUMAN ++++ where is your hometown
+BOT ++++ My home town is in Manhattan
+HUMAN ++++ whats your age
+BOT ++++ I am 25 years old
+HUMAN ++++ ok fine
+BOT ++++ Please repharse
+HUMAN ++++ hello
+BOT ++++ hey !
+HUMAN ++++ whats yor name
+BOT ++++ Please repharse
+HUMAN ++++ ur name
+BOT ++++ joey
+HUMAN ++++ what is your name
+BOT ++++ joey
+HUMAN ++++ ur age
+BOT ++++ I am 25 years old
+HUMAN ++++ what you do
+BOT ++++ I am an actor
+HUMAN ++++ yo
+BOT ++++ Please repharse
+=============================================
+HUMAN ++++ hello
+BOT ++++ hey !
+HUMAN ++++ how are you
+BOT ++++ I am fine
+BOT ++++ I am fine
+HUMAN ++++ m back
+BOT ++++ Please repharse
+HUMAN ++++ ok
+BOT ++++ Please repharse
+HUMAN ++++ bye
+BOT ++++ have a nice day
+HUMAN ++++ bye
+BOT ++++ bye! come back again
+HUMAN ++++ bye
+BOT ++++ have a nice day
+HUMAN ++++ bye bye
+BOT ++++ Please repharse
+HUMAN ++++ bye
+BOT ++++ have a nice day
+HUMAN ++++ ok
+BOT ++++ Please repharse
+HUMAN ++++ yo
+BOT ++++ Please repharse
+HUMAN ++++ exiit
+BOT ++++ Please repharse
+=============================================
+HUMAN ++++ hi
+BOT ++++ hi
+BOT ++++ hi
+HUMAN ++++ how are you
+BOT ++++ I am fine
+BOT ++++ I am fine
+BOT ++++ i m ok
+HUMAN ++++ how are you
+BOT ++++ I am fine
+BOT ++++ I am fine
+HUMAN ++++ how are you
+BOT ++++ I am fine
+BOT ++++ I am fine
+HUMAN ++++ hi
+BOT ++++ hi
+BOT ++++ hi
+BOT ++++ hello
+HUMAN ++++ hi
+BOT ++++ hello
+BOT ++++ hello
+HUMAN ++++ how are you
+BOT ++++ oh, oh,i'm fine !
+BOT ++++ I am fine
+HUMAN ++++ how are you
+BOT ++++ I am fine
+BOT ++++ I am fine
+HUMAN ++++ where u from
+BOT ++++ Please repharse
+BOT ++++ where are you from
+HUMAN ++++ where u from
+BOT ++++ where are you from
+BOT ++++ where are you from
+HUMAN ++++ whats ur name
+BOT ++++ joey
+HUMAN ++++ ok
+BOT ++++ Please repharse
+BOT ++++ ok fine
+HUMAN ++++ ok
+BOT ++++ ok fine
+BOT ++++ ok fine
+HUMAN ++++ bye
+BOT ++++ bye! come back again
+BOT ++++ bye bye
+HUMAN ++++ bye
+BOT ++++ bye bye
+BOT ++++ bye bye
+=============================================
+
+HUMAN ++++ hi
+BOT ++++ hey !
+=============================================
+HUMAN ++++ how are you
+BOT ++++ oh, oh,i'm fine !
+=============================================
+HUMAN ++++ whats your name
+BOT ++++ joey
+=============================================
+HUMAN ++++ what is your age
+BOT ++++ I am 25 years old
+=============================================
+HUMAN ++++ what you do
+BOT ++++ I am an actor
+=============================================
+HUMAN ++++ could you help me
+BOT ++++ tell me your problem to assist you
+=============================================
+HUMAN ++++ tell me a joke
+BOT ++++ a woman
+=============================================
+HUMAN ++++ where are you now
+BOT ++++ Right now I am in Ireland
+=============================================
+HUMAN ++++ thank you and far too kind
+BOT ++++ love you too
+HUMAN ++++ i am definitely convinced that this woman is not sane
+BOT ++++ its a fact
+HUMAN ++++ wish but cant travel enjoy
+BOT ++++ i know
+HUMAN ++++ how old is she now
+BOT ++++ is a bitch
+HUMAN ++++ thats an idea too
+BOT ++++ i know right
+HUMAN ++++ classy i like it
+BOT ++++ i know i know
+HUMAN ++++ i dont recall israel going 120 four years ago
+BOT ++++ i dont think he is a bitch
+HUMAN ++++ a great tailgate goes a long way 
+BOT ++++ i know
+HUMAN ++++ im here to tell the truth how the clouds buddy
+BOT ++++ i dont think the media is a little too good
+HUMAN ++++ not so deep now but still good 
+BOT ++++ i know i know
+HUMAN ++++ im sorry alonso hacked your twitter
+BOT ++++ # # # # # # # # # # # # # # # # # # #
+HUMAN ++++ omg i love the bio of the neglected one its actually super cute
+BOT ++++ i love you too
+HUMAN ++++ dont get me wrong neil is bringing it
+BOT ++++ i know right
+HUMAN ++++ oh i feel better then
+=============================================
+HUMAN ++++ bye
+BOT ++++ see you later
+=============================================
+HUMAN ++++ bye
+BOT ++++ have a nice day
+=============================================
